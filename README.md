@@ -1,3 +1,3 @@
-An ever-growing Source: Tumblr bot-poem from the gutted basementnet
+An ever-growing bot-poem of Tumblr source attributions
 
 https://twitter.com/SOURCEPOEM
