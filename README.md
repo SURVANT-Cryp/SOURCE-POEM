@@ -1,3 +1,4 @@
-EXMEDISTRO is a Twitterbot distributing experimental media. I am sharing this project on GitHub in the spirit of distribution and DIWO culture.
+SOURCE POEM is a strange loop Tumblr bot-poem
 
-https://twitter.com/exmedistro
+https://en.wikipedia.org/wiki/Strange_loop
+https://twitter.com/SOURCEPOEM
