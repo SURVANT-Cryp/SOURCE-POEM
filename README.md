@@ -1,4 +1,3 @@
-SOURCE POEM is a strange loop Tumblr bot-poem
+SOURCE POEM is an ever-growing Tumblr bot-poem from gutted basementnet
 
-https://en.wikipedia.org/wiki/Strange_loop<br>
 https://twitter.com/SOURCEPOEM
