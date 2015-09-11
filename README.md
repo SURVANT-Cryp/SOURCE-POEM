@@ -1,3 +1,3 @@
-An ever-growing bot-poem of Tumblr source attributions
+An ever-growing bot-poem constructed of Tumblr source attributions
 
 https://twitter.com/SOURCEPOEM
